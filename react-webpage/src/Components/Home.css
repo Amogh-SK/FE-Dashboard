@@ -1,4 +1,35 @@
-h3 {
-    color: blue;
-    font-size: 36px;
+.h{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight:bolder;
+    margin-left: 1%;
 }
+.h1
+{
+    margin-top: 1%;
+    margin-left: 5%;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.home-container{
+    background-image: url('./bg.jpg');
+    background-size:cover; /* Cover the entire container with the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-attachment: fixed;
+}
+
+
+.col-md-6{
+    color: aliceblue;
+}
+
+.status-container {
+    color: aliceblue;
+  }
+  
+.row{
+    color: aliceblue;
+    background-color: rgba(152, 152, 152,0.3);
+}
+ 

@@ -15,13 +15,14 @@ class Navbarcomp extends Component {
                         <Navbar.Brand href="#home">
                         <img
                             src="/logo512.png" // Replace with your image URL
-                            width="30"
-                            height="30"
+                            width="200"
+                            height="60"
                             className="d-inline-block align-top"
                             alt="Your Logo"
                         />
-                        {' FE DASHBOARD'}
+                        
                     </Navbar.Brand>
+                    
                         <Nav className="me-auto">
                             <Nav.Link as={Link} to="/">Home</Nav.Link>
                             <Nav.Link as={Link} to="/view-data">ViewData</Nav.Link>
