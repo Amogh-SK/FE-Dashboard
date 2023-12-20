@@ -1,0 +1,29 @@
+.Main-class{
+    background-image: url('./bg.jpg');
+    background-size:cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+.Main-class {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .canvas-container {
+    border-radius: 0px;
+    margin-top: 1px;
+  }
+  
+  canvas {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #f2f2f2;
+    margin-bottom: 60px;
+  }
+  

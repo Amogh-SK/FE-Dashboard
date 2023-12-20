@@ -9,13 +9,13 @@
     margin-top: 1%;
     margin-left: 5%;
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .home-container{
     background-image: url('./bg.jpg');
-    background-size:cover; /* Cover the entire container with the background image */
-    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-size:cover; 
+    background-repeat: no-repeat; 
     background-attachment: fixed;
 }
 

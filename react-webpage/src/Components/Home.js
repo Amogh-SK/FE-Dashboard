@@ -8,7 +8,7 @@ class Home extends Component {
         return (
             <div className="home-container">
                 <div className="text-center">
-                    <div className="h">FIRE EXTINGUISHER MONITORING SYSTEM</div>
+                    <div className="h">FIRE EXTINGUISHER MONITORING SYSTEM </div>
                 </div>
                 
                 <div className="row custom-background">

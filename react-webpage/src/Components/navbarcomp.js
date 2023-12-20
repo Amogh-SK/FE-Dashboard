@@ -14,9 +14,9 @@ class Navbarcomp extends Component {
                         <Navbar expand="lg" className="navbar navbar-dark bg-dark">
                         <Navbar.Brand href="#home">
                         <img
-                            src="/logo512.png" // Replace with your image URL
-                            width="200"
-                            height="60"
+                            src="/logo512.png" 
+                            width="90"
+                            height="30"
                             className="d-inline-block align-top"
                             alt="Your Logo"
                         />
